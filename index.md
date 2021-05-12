@@ -4,21 +4,15 @@ has_intro: true
 intro_content: >
   « je dirais pas qu’on est les meilleurs car rien n’a commencé »
 
-
   10 ans en arrière, ca aurait paru avant-gardiste mais aujourd’hui on est dans
   le présent
 
-
   et même tout ce que je viens d’écrire
-
 
   c’est banal et ça aurait pu traverser l’esprit de n’importe qui.
 
 
-
-
   envisage le futur,
-
 
   Norad, une expédition à travers la ville.
 intro_actions:
