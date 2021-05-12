@@ -2,9 +2,11 @@
 title: Home
 has_intro: true
 intro_content: >
-  « je dirais pas qu’on est les meilleurs car rien n’a commencé »
+  > « je dirais pas qu’on est les meilleurs car rien n’a commencé »
 
-  10 ans en arrière, ca aurait paru avant-gardiste mais aujourd’hui on est dans
+
+
+  10 ans en arrière, ça aurait paru avant-gardiste mais aujourd’hui on est dans
   le présent
 
   et même tout ce que je viens d’écrire
@@ -14,7 +16,7 @@ intro_content: >
 
   envisage le futur,
 
-  Norad, une expédition à travers la ville.
+  Norad, une expédition urbaine.
 intro_actions:
   - type: action
     label: Learn More
