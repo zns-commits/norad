@@ -1,11 +1,28 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >
+  « je dirais pas qu’on est les meilleurs car rien n’a commencé »
+
+  10 ans en arrière, ca aurait paru avant-gardiste mais aujourd’hui on est dans
+  le présent
+
+  et même tout ce que je viens d’ecrire
+
+  c’est banal et ça aurait pu traverser l’esprit de n’importe qui.
+
+
+  envisage le futur,
+
+  rejoins le mouvement urbain anonyme,
+
+  c’est vrai un mot aussi compliqué ca fais politique mais je t’assure que même
+  moi je ne sais pas ce que c’est, à part qu’on en a tous le pouvoir.
+
+
+  merci d’avoir lu,
+
+  et maintenant ca se passe ici
 intro_actions:
   - type: action
     label: Learn More
