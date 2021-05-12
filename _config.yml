@@ -2,7 +2,7 @@ title: 'Norad : urbex et mouvement urbain'
 baseurl: /
 permalink: '/:title/'
 layout_style: grid
-palette: green
+palette: blue
 header:
   type: header
   title: Ampersand
