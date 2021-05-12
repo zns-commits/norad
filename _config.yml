@@ -2,7 +2,7 @@ title: 'Norad : urbex et mouvement urbain'
 baseurl: /
 permalink: '/:title/'
 layout_style: grid
-palette: blue
+palette: red
 header:
   type: header
   title: Norad.
