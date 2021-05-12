@@ -4,25 +4,23 @@ has_intro: true
 intro_content: >
   « je dirais pas qu’on est les meilleurs car rien n’a commencé »
 
+
   10 ans en arrière, ca aurait paru avant-gardiste mais aujourd’hui on est dans
   le présent
 
-  et même tout ce que je viens d’ecrire
+
+  et même tout ce que je viens d’écrire
+
 
   c’est banal et ça aurait pu traverser l’esprit de n’importe qui.
 
 
+
+
   envisage le futur,
 
-  rejoins le mouvement urbain anonyme,
 
-  c’est vrai un mot aussi compliqué ca fais politique mais je t’assure que même
-  moi je ne sais pas ce que c’est, à part qu’on en a tous le pouvoir.
-
-
-  merci d’avoir lu,
-
-  et maintenant ca se passe ici
+  Norad, une expédition à travers la ville.
 intro_actions:
   - type: action
     label: Learn More
