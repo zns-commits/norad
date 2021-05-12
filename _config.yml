@@ -94,3 +94,4 @@ collections:
   posts:
     permalink: '/posts/:title/'
 domain: 'https://norad-be850.netlify.app'
+favicon: /images/c566d9b74a377523a27419b4af6cec5e.png
