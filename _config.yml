@@ -93,3 +93,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://norad-be850.netlify.app'
