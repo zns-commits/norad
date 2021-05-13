@@ -7,7 +7,6 @@ intro_actions:
     url: /about
     style: primary
   - type: action
-    label: Contact
     url: /contact
     style: secondary
 has_more_link: true
