@@ -10,7 +10,7 @@ has_more_link: true
 more_link_text: Read more
 seo:
   type: stackbit_page_meta
-  title: 'Norad '
+  title: 'Norad : urbex et mouvement urbain'
   description: The preview of the Ampersand theme
   extra:
     - name: 'og:type'
