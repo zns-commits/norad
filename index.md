@@ -9,7 +9,7 @@ intro_actions:
   - type: action
     url: /contact
     style: secondary
-    label: CHAT
+    label: CHATROOM
 has_more_link: true
 more_link_text: Read more
 seo:
