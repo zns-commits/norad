@@ -11,7 +11,9 @@ more_link_text: Read more
 seo:
   type: stackbit_page_meta
   title: Norad
-  description: The preview of the Ampersand theme
+  description: >-
+    Mouvement urbain, ou bien juste un site tout simple où est raconté les
+    expéditions urbaines de deux jeunes.
   extra:
     - name: 'og:type'
       value: website
