@@ -25,6 +25,7 @@ header:
       label: Contact
       url: /contact
       style: link
+  logo_img: /images/noradlogo.svg
 footer:
   type: footer
   content: >-
