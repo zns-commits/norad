@@ -40,4 +40,5 @@ seo:
       value: images/ampersand-preview.png
       relativeUrl: true
 layout: home
+title: Accueil
 ---
