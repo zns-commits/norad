@@ -6,7 +6,7 @@ palette: red
 header:
   type: header
   title: Norad.
-  logo_img_alt: Ampersand Logo
+  logo_img_alt: NoradLogo
   has_nav: true
   nav_links:
     - type: action
