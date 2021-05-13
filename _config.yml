@@ -15,7 +15,7 @@ header:
       style: link
       no_follow: false
     - type: action
-      label: About
+      label: Qui sommes nous ?
       url: /about
       style: link
     - type: action
