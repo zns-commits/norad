@@ -10,7 +10,7 @@ header:
   has_nav: true
   nav_links:
     - type: action
-      label: Acc
+      label: Accueil
       url: /
       style: link
     - type: action
