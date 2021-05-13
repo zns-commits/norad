@@ -1,5 +1,4 @@
 ---
-title: Home
 has_intro: true
 intro_content: "> « je dirais pas qu’on est les meilleurs, car rien n’a commencé »\n\n10 ans en arrière, ça aurait paru avant-gardiste, mais aujourd’hui, on est dans le présent\r\net même tout ce que je viens d’écrire,\r\nc’est banal et ça aurait pu traverser l’esprit de n’importe qui.\n\nEnvisage le futur : \r\nNorad, une expédition urbaine.\n"
 intro_actions:
