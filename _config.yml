@@ -12,7 +12,7 @@ header:
     - type: action
       label: Accueil
       url: /
-      style: primary
+      style: link
     - type: action
       label: About
       url: /about
