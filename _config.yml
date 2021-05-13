@@ -95,4 +95,4 @@ collections:
   posts:
     permalink: '/posts/:title/'
 domain: 'https://norad.ml'
-favicon: /images/favicon.ico
+favicon: /images/android-chrome-512x512.png
