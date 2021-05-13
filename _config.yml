@@ -95,4 +95,4 @@ collections:
   posts:
     permalink: '/posts/:title/'
 domain: 'https://norad.ml'
-favicon: /images/confetti.svg
+favicon: /images/favicon.ico
