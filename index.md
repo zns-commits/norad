@@ -6,10 +6,6 @@ intro_actions:
     label: PLUS D'INFOS
     url: /about
     style: primary
-  - type: action
-    url: /contact
-    style: secondary
-    label: CHATROOM
 has_more_link: true
 more_link_text: Read more
 seo:
