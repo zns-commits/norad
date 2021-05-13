@@ -13,6 +13,7 @@ header:
       label: Accueil
       url: /
       style: link
+      no_follow: true
     - type: action
       label: About
       url: /about
